@@ -1,0 +1,52 @@
+body {
+  background-color: #181818;
+  color: #F85149;
+  font-family: 'Monaco', monospace;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: left;
+}
+
+.code {
+  line-height: 1.8;
+  font-size: 16px;
+}
+
+.line-number {
+  color: #6E7674;
+  display: inline-block;
+  width: 30px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.keyword {
+  color: #C586C0;
+}
+
+.const-name {
+  color: #4EC9B0;
+}
+
+.string {
+  color: #CE9178;
+}
+
+.operator {
+  color: #D4D4D4;
+}
+
+.bracket {
+  color: #FFD700;
+}
+
+.comment {
+  color: #6A9955;
+}
