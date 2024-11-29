@@ -1,5 +1,5 @@
 # JavaScript VSCode Website Template
-Welcome to my **JavaScript VSCode Website Template**! This project was designed to replace my old personal website, which I created before I had any knowledge of web development. This updated template reflects my improved skills and is available for you to use in your own personal projects, provided that proper credit is given.
+Welcome to my **JavaScript VSCode Website Template**! This project was designed to replace my old personal website. This template is available for you to use in your own personal projects, provided that proper credit is given.
 
 ## Preview
 You can view this template live at:
